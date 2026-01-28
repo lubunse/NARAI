@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2af5e64f379ab91419590e4ba3d4ea23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonClick: {fileID: 8300000, guid: d267264bba550264ea43044cacfb9c62, type: 3}
+  - canvasSelect: {fileID: 8300000, guid: 7abccce1359ba0d4a8421bcc212783c5, type: 3}
+  - analysisComplete: {fileID: 8300000, guid: f10e7ff812627164fa39911459400577, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
