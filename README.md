@@ -1,8 +1,5 @@
 # NARAI Manual
 
-The source code of the NARAI app is available on GitLab:  
-https://anonymous.4open.science/r/NARAI-9B8D/README.md
-
 This manual provides a short overview of the project structure and explains how to deploy the application to an Android smartphone using Unity.
 
 ---
